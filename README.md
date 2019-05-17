@@ -1,1 +1,3 @@
-# Upfal_16_10
+# Getting Started
+
+`python3 run.py`
